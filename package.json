@@ -14,6 +14,6 @@
   },
   "homepage": "https://github.com/kaypee90/sample-js#readme",
   "dependencies": {
-    "async": "2.6.3"
+    "archiver": "3.0.0"
   }
 }
