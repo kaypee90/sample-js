@@ -1,0 +1,19 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/kaypee90/sample-js.git",
+  "author": "kwabena <kwabena@mpharma.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaypee90/sample-js/issues"
+  },
+  "homepage": "https://github.com/kaypee90/sample-js#readme",
+  "dependencies": {
+    "async": "2.6.3"
+  }
+}
